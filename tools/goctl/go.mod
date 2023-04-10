@@ -15,7 +15,7 @@ require (
 	github.com/withfig/autocomplete-tools/integrations/cobra v1.2.1
 	github.com/zeromicro/antlr v0.0.1
 	github.com/zeromicro/ddl-parser v1.0.4
-	github.com/zeromicro/go-zero v1.5.1
+	github.com/anminlu/go-zero-custom v1.5.1
 	golang.org/x/text v0.9.0
 	google.golang.org/grpc v1.54.0
 	google.golang.org/protobuf v1.30.0
