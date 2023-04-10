@@ -1,4 +1,4 @@
-module github.com/LuAnmin-Github/go-zero-custom
+module github.com/anminlu/go-zero-custom
 
 go 1.18
 
